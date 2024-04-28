@@ -7,7 +7,7 @@ const Index = () => {
       <Box maxW="xl" p={8} bg="white" boxShadow="xl" rounded="lg">
         <Image borderRadius="full" boxSize="150px" src="https://images.unsplash.com/photo-1560250097-0b93528c311a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBwb3J0cmFpdHxlbnwwfHx8fDE3MTQzMjA3NTZ8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Tandra" mb={4} />
         <Text fontSize="2xl" fontWeight="bold" textAlign="center">
-          Tandra Smith
+          Tandra Debarati Shome
         </Text>
         <Text fontSize="md" color="gray.600" textAlign="center">
           Full Stack Developer | React & Node.js Specialist
